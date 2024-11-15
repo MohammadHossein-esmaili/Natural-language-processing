@@ -1,5 +1,11 @@
 #    **Natural-language-processing**
 ## Natural Language Processing (NLP) with Python
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/https://github.com/MohammadHossein-esmaili/computer-vision/blob/main/pet_image_segmentation_Unet.ipynb)
+
+
+
 This repository contains various Python scripts demonstrating key techniques in [Natural Language Processing (NLP)](https://aws.amazon.com/what-is/nlp/#:~:text=Natural%20language%20processing%20(NLP)%20is,manipulate%2C%20and%20comprehend%20human%20language.). The code includes different tasks such as tokenization, stemming, lemmatization, Named Entity Recognition (NER), and text classification, all using popular Python libraries like NLTK, spaCy, gensim, and scikit-learn.
 
 # Features
