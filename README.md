@@ -1,4 +1,4 @@
-#  **Natural-language-processing**
+#    **Natural-language-processing**
 ## Natural Language Processing (NLP) with Python
 This repository contains various Python scripts demonstrating key techniques in Natural Language Processing (NLP). The code includes different tasks such as tokenization, stemming, lemmatization, Named Entity Recognition (NER), and text classification, all using popular Python libraries like NLTK, spaCy, gensim, and scikit-learn.
 
