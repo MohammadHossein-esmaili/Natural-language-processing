@@ -12,7 +12,8 @@
 This repository contains various Python scripts demonstrating key techniques in [Natural Language Processing (NLP)](https://aws.amazon.com/what-is/nlp/#:~:text=Natural%20language%20processing%20(NLP)%20is,manipulate%2C%20and%20comprehend%20human%20language.). The code includes different tasks such as tokenization, stemming, lemmatization, Named Entity Recognition (NER), and text classification, all using popular Python libraries like NLTK, spaCy, gensim, and scikit-learn.
 
 
-![img/NLP.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Famazinum.com%2Finsights%2Fwhat-is-nlp-and-how-it-is-implemented-in-our-lives%2F&psig=AOvVaw1uBfWDoVcDMwyI5vw9rhss&ust=1731721464064000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjRzdOb3YkDFQAAAAAdAAAAABAE)
+![img/NLP.png](https://github.com/user-attachments/assets/cebdcad7-ca8f-4357-b9f1-509224d9a387)
+
 
 # Features
 ## Tokenization:
